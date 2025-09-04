@@ -1,6 +1,6 @@
 # Snake Game
 
-A classic Snake game built with HTML, CSS, and JavaScript. Play it [here](#) (link will be updated after deployment).
+A classic Snake game built with HTML, CSS, and JavaScript. Play it [here](https://namratha0525.github.io/snake-game/).
 
 ## Features
 
